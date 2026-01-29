@@ -31,7 +31,7 @@ Recovery behaviors (backward, rotation, wiggle)
 
 Debug logging for planning and execution stages
 
-System Architecture
+**SYSTEM ARCHITECTURE**
 
 The controller is structured into three major subsystems:
 
