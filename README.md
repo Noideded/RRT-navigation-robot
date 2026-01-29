@@ -3,7 +3,7 @@
 This repository explores sampling-based path planning and navigation
 for mobile robots in Webots.
 
-*Overview
+**OVERVIEW**
 
 This project implements a sampling-based path planning and execution system for the e-puck robot in Webots, using a simplified RRT* (Rapidly-exploring Random Tree Star) algorithm combined with a finite-state machine (FSM) for navigation and recovery.
 
@@ -17,7 +17,7 @@ Detect when the robot becomes stuck
 
 Attempt recovery behaviors and replan if necessary
 
-Features
+**FEATURES**
 
 RRT* path planning with goal biasing
 
